@@ -1,0 +1,4 @@
+C:\Users\tyhurstrw\AndroidstudioProjects\Coursera\UILabs\app\build\intermediates\classes\debug
+C:\Users\tyhurstrw\AndroidstudioProjects\Coursera\UILabs\app\build\intermediates\pre-dexed\debug\robotium-solo-5.3.1-02c82088aaa11e580b6482854483a31e1e637f39.jar
+C:\Users\tyhurstrw\AndroidstudioProjects\Coursera\UILabs\app\build\intermediates\pre-dexed\debug\robotium-solo-5.3.1-javadoc-28b50c8be6d147442f6f42fef543a0b269f79451.jar
+C:\Users\tyhurstrw\AndroidstudioProjects\Coursera\UILabs\app\build\intermediates\pre-dexed\debug\support-v4-19.0.0-299a9eabe19123f6dd5121e43b716d115e1ba348.jar

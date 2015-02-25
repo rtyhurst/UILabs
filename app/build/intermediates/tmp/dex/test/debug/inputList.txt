@@ -1,0 +1,2 @@
+C:\Users\tyhurstrw\AndroidstudioProjects\Coursera\UILabs\app\build\intermediates\classes\test\debug
+C:\Users\tyhurstrw\AndroidstudioProjects\Coursera\UILabs\app\build\intermediates\pre-dexed\test\debug\robotium-solo-5.3.1-02c82088aaa11e580b6482854483a31e1e637f39.jar
